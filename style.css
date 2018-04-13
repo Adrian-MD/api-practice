@@ -1,0 +1,7 @@
+#body { background-color: #272727; font-family: 'Caveat', cursive; }
+#container { background-color: #343a40; }
+#quote-box { background-color: #f8f9fa; }
+
+
+h1, button {font-family: 'Josefin Sans', sans-serif;}
+h1.quote {font-family: 'Caveat', cursive;}
